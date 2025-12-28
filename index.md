@@ -9,9 +9,7 @@ This is a public working notebook by a beginner, for beginners — exploring des
 
 I’m not an engineer. I design and build by learning as I go, working closely with AI as a mentor and partner. Through this process, I’m learning how to do things I never imagined I’d be able to do before — especially in electronics and embedded systems.
 
-I’m documenting POPO as I build it: what breaks, what confuses me, what I try, and what eventually works.
-
-POPO is currently being built as a small ESP32-S3 desktop companion that responds only to simple physical interactions like tapping and shaking. From there, I’m exploring related variants — including a voice-enabled version — as well as other small robots for different contexts, all unified under the idea of POPO as a cute, quiet companion.
+POPO is currently being built as a small, cute, and animal-like ESP32-S3 desktop companion that responds only to simple physical interactions, such as tapping and shaking, by displaying emotions. From there, I’m exploring related variants — including a voice-enabled version — as well as other small robots for different contexts, all unified under the idea of POPO as a cute, quiet companion.
 
 The broader idea is simple: to create interactive electronics that can quietly accompany us — on a desk, in a car, or wherever we go — without demanding attention or behaving like tools.
 
