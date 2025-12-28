@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Decisions
+title: ""
 ---
 
 # Decisions of Making
