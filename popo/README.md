@@ -1,9 +1,9 @@
 ---
 layout: page
-title: POPO Introduction
+title: POPO 
 ---
 
-# POPO
+# Introduction
 
 What POPO is, how it works, and the evolving spec (written in beginner language).
 
