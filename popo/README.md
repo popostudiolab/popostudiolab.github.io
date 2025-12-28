@@ -1,6 +1,6 @@
 ---
 layout: page
-title: POPO 
+title: ""
 ---
 
 # Introduction
