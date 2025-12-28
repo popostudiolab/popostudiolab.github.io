@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Debug
+title: ""
 ---
 
 # Just trying to figure it out
