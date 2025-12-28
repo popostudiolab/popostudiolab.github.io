@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Decisions of Making
+title: Decisions
 ---
 
-# Decisions
+# Decisions of Making
 
 Choices I made, tradeoffs I accepted, and why.
 
