@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Just trying to figure it out
+title: Debug
 ---
 
-# Debug
+# Just trying to figure it out
 
 Things that broke — and what *actually* fixed them.
 
