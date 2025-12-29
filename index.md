@@ -19,9 +19,9 @@ I’m sharing this journey in case it helps anyone else who’s learning, experi
 
 ## How this site is organized
 
-- **[debug](/debug/README)** — things that broke, and what *actually* fixed them  
-- **[decisions](/decisions/README)** — choices I made, tradeoffs I accepted, and why  
-- **[popo](/popo/README)** — what POPO is, how it works, and how it’s evolving  
+- **[debug](/debug/)** — things that broke, and what *actually* fixed them  
+- **[decisions](/decisions/)** — choices I made, tradeoffs I accepted, and why  
+- **[popo](/popo/)** — what POPO is, how it works, and how it’s evolving  
 
 ## How to read this site
 
