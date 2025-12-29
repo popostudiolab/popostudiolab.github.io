@@ -2,7 +2,7 @@
 layout: post
 title: "Building a Desktop Robot Without an Engineering Degree: ESP32 and AI"
 date: 2025-12-29
-excerpt: "I'm building an autonomous emotional robot called POPO using ESP32-S3 hardware and AI as my coding partner. No engineering degree, no soldering, no formal programming training—just curiosity and accessible tools."
+excerpt: "I'm building an autonomous emotional robot called POPO using ESP32-S3 hardware and AI as my coding partner. No soldering, no formal programming training—just curiosity and accessible tools."
 ---
 
 ## I've Always Wanted a Desktop Robot
