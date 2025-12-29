@@ -4,9 +4,6 @@ title: "Tap Detection Almost Broke Me"
 date: 2025-12-28
 excerpt: "I spent two days debugging a gesture classifier on ESP32 QMI8658 IMU."
 ---
-
-# Tap Detection Almost Broke Me
-
 ## What I'm Building
 
 I'm building POPO — an autonomous emotional desk companion. It's a 10cm egg-shaped robot with a screen face that responds to how you touch it. You can't command it. Instead, it maintains internal "pressure" states (rest, social, curiosity, overstimulation) that shift based on your interactions.
