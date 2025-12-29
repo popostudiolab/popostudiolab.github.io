@@ -1,5 +1,10 @@
 title: POPO Studio Lab
-description: Developmental documentation by a beginner, for beginners — exploring desktop companions, ESP32 bots, and AI through anti-engineer engineering.
+description: Learning to build hardware in public — ESP32 desk companions, embedded systems, and anti-engineer engineering.
+url: "https://popostudiolab.github.io"
+baseurl: ""
+author: Emily
+timezone: America/Los_Angeles
+
 theme: minima
 
 collections:
@@ -7,6 +12,6 @@ collections:
     output: true
     permalink: /debug/:name/
 
-# Prevent README from becoming the homepage
+# Prevent README from becoming homepage
 readme_index:
   enabled: false
