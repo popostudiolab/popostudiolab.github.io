@@ -163,12 +163,14 @@ My controlled tests (stable desk, deliberate gestures) gave 85%. Real usage (des
 Yeah, the numbers will change after I add the shell. But I learned what dimensions matter, what the failure modes look like, how to structure the decision tree. The *numbers* change. The *logic* doesn't.
 
 
-## Conclusions
+## Looking Forward
 
-I spent two days trying to build an "accurate" gesture classifier. Then I realized I'd been optimizing the wrong thing.
+Six months ago, I didn't know what an ESP32 was. I'd never written a line of code. But here I am, building my dream desktop companion while debugging accelerometer thresholds and building autonomous behaviour systems.
 
-My sensor wasn't the problem. My design assumptions were.
+AI isn't replacing my thinking—it's amplifying it. Claude is my execution partner, helping me translate ideas into working code while I focus on design decisions and what makes POPO feel alive.
 
-The intentionality detection (that 1-second pause) turned my not-so-perfect system into something 100% reliable — not by improving the sensor, but by changing what I needed the sensor to do.
+This is what excites me most: **technology is no longer gatekept by credentials.** An art major can build robots. A beginner can ship real hardware. The barrier isn't knowledge anymore—it's willingness to iterate.
 
-Sometimes the hard part isn't building a better classifier. It's designing interactions that work even when your classifier isn't perfect.
+If you're reading this and thinking "I could never do that," I promise: you absolutely can. Start messy. Test constantly. Let AI handle the syntax while you handle the thinking.
+
+POPO exists because I didn't wait to become an expert first. 
