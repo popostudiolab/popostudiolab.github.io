@@ -20,7 +20,7 @@ For this project, I am using ESP32-S3-LCD-1.69 (Waveshare) and it comes with QMI
 
 The same tap can mean different things depending on POPO's current mood. But first, I needed to detect what you actually did.
 
-**I code with Claude**
+**Since i am not an engineer, Claude is my coding partner.**
 
 ## I Thought I Was Done
 
