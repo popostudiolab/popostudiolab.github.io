@@ -6,8 +6,8 @@ excerpt: "I spent two days debugging a gesture classifier on ESP32 QMI8658 IMU."
 ---
 ## What I'm Building
 
-I'm building POPO — an autonomous emotional desk companion. It's a 10cm egg-shaped robot with a screen face that responds to how you touch it. You can't command it. Instead, it maintains internal "pressure" states (rest, social, curiosity, overstimulation) that shift based on your interactions.
-For this project, I am using ESP32-S3-LCD-1.69 (Waveshare) and it comes with QMI8658 IMU.
+POPO bot touch is an autonomous emotional desk companion/robot. It's a cube-shaped robot with a screen face that responds to how you move it. You can't command it. Instead, it maintains internal "pressure" states (rest, social, curiosity, overstimulation) that shift based on your interactions.
+For this project, I am using the ESP32-S3-LCD-1.69 (Waveshare) board, which comes with a QMI8658 IMU.
 
 **Why I needed gesture detection:**
 - **Taps** → Build social pressure → POPO shows HAPPY, GIGGLE, SMUG expressions (gifs)
@@ -17,7 +17,7 @@ For this project, I am using ESP32-S3-LCD-1.69 (Waveshare) and it comes with QMI
 
 The same tap can mean different things depending on POPO's current mood. But first, I needed to detect what you actually did.
 
-**Since i am not an engineer, Claude is my coding partner.**
+**Since I am not an engineer by trade, Claude is my coding partner.**
 
 ## I Thought I Was Done
 
@@ -165,7 +165,7 @@ Yeah, the numbers will change after I add the shell. But I learned what dimensio
 
 ## Looking Forward
 
-Six months ago, I didn't know what an ESP32 was. I'd never written a line of code. But here I am, building my dream desktop companion while debugging accelerometer thresholds and building autonomous behaviour systems.
+One month ago, I didn't know what an ESP32 was. I'd never written a line of code. But here I am, building my dream desktop companion while debugging accelerometer thresholds and building autonomous behaviour systems.
 
 AI isn't replacing my thinking—it's amplifying it. Claude is my execution partner, helping me translate ideas into working code while I focus on design decisions and what makes POPO feel alive.
 
