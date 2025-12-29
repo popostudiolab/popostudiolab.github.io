@@ -3,28 +3,21 @@ layout: home
 title: ""
 ---
 
-## POPO — Public Working Notes
+## POPO — Learning to Build robots in Public
 
-This is a public working notebook by a beginner, for beginners — exploring desktop companions, ESP32 bots, and AI through **anti-engineer engineering**.
+I'm building POPO bot touch — a tiny emotional desk companion that responds to how you tap/shake it. It's a cube-shaped robot with a screen face, built on ESP32-S3 hardware. This is the first of several small robots I'm planning to create and document here.
 
-I’m not an engineer. I design and build by learning as I go, working closely with AI as a mentor and partner. Through this process, I’m learning how to do things I never imagined I’d be able to do before — especially in electronics and embedded systems.
+I'm not an engineer. I'm learning electronics and embedded systems by building with AI as my learning partner. This site documents that process — the confusion, the breakthroughs, the stuff that broke, and what actually fixed it.
 
-POPO is currently being built as a small, cute, and animal-like ESP32-S3 desktop companion that responds only to simple physical interactions, such as tapping and shaking, by displaying emotions. From there, I’m exploring related variants — including a voice-enabled version — as well as other small robots for different contexts, all unified under the idea of POPO as a cute, quiet companion.
+**How POPO bot touch works:** It responds only to physical interactions (taps, shakes, orientation) and maintains internal "pressure" states (rest, social, curiosity, overstimulation) that shift based on how you interact with it. You can't command it — it decides how to respond.
 
-The broader idea is simple: to create interactive electronics that can quietly accompany us — on a desk, in a car, or wherever we go — without demanding attention or behaving like tools.
+This is **anti-engineer engineering** — making hardware accessible by documenting a beginner's real journey, not cleaned-up tutorials written from an expert perspective.
 
-These notes are written primarily for myself. They’re rough, sometimes incomplete, and may fall out of date as the project evolves.
+## What's Here
 
-I’m sharing this journey in case it helps anyone else who’s learning, experimenting, or building something similar — especially if you don’t come from an engineering background.
+**[Debug →](/debug/)** — Build log, sensor calibration, things that broke, and what I learned (currently it is showcasing the progress for POPO bot touch, the 1st project)
 
-## How this site is organized
+## Projects Status
 
-- **[debug](/debug/)** — things that broke, and what *actually* fixed them  
-- **[decisions](/decisions/)** — choices I made, tradeoffs I accepted, and why  
-- **[popo](/popo/)** — what POPO is, how it works, and how it’s evolving  
-
-## How to read this site
-
-There’s no need to read everything, or read in order.
-
-If you’re stuck on something specific, start with the folder that matches your situation.
+🔨 **Building: POPO bot touch** 
+Started: December 2025
