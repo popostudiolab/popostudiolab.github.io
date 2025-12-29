@@ -2,6 +2,11 @@ title: POPO Studio Lab
 description: Developmental documentation by a beginner, for beginners — exploring desktop companions, ESP32 bots, and AI through anti-engineer engineering.
 theme: minima
 
+collections:
+  debug:
+    output: true
+    permalink: /debug/:name/
+
 # Prevent README from becoming the homepage
 readme_index:
   enabled: false
