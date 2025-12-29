@@ -3,7 +3,7 @@ layout: home
 title: ""
 ---
 
-## POPO — Learning to Build robots in Public
+## POPO — Learning to Build robots with AI
 
 I'm building POPO bot Touch — a tiny emotional desk companion that responds to how you tap/shake it. It's a cube-shaped robot with a screen face, built on ESP32-S3 hardware. This is the first of several small robots I'm planning to create and document here.
 
