@@ -15,7 +15,7 @@ This is **anti-engineer engineering** — making hardware accessible by document
 
 ## What's Here
 
-**[Debug →](/debug/)** — Build log, sensor calibration, things that broke, and what I learned (currently it is showcasing the progress for POPO bot touch, the 1st project)
+**[POPO bot touch](/debug/)** — Build log, sensor calibration, things that broke, and what I learned (currently it is showcasing the progress for POPO bot touch, the 1st project)
 
 ## Projects Status
 
