@@ -3,6 +3,7 @@ layout: page
 title: POPO bot Touch
 ---
 #Work in the Public Progress
+
 Here are the things I have tried working with AI to shape the project, hope they are useful to you too.
 
 {% for post in site.debug %}
