@@ -10,8 +10,11 @@ excerpt: "I tried to make an ESP32 robot count 7 taps using an IMU. What looked 
 
 POPO is an autonomous emotional desk companion I’m building on an ESP32.
 
+![POPO development setup](/assets/images/popo-expression.jpg)
+
+One utility menu I wanted to implement is finding my phone. 
 The idea was straightforward:
-tap it **7 times**, and it finds your phone via Bluetooth.
+tap it **7 times**, and it finds my phone via Bluetooth.
 
 In early tests — no animations, just serial logs — it mostly worked.
 Tap and shake detection using the QMI8658 IMU hovered around **85% accuracy**.
@@ -172,7 +175,7 @@ The system asks:
 “Was that a little tapping or a lot?”
 
 The rules became:
-- **1–4 taps → Fortune**
+- **1–4 taps → Fortune** (Fortune is another game-like utility I am incorporating in the Utility Menu)
 - **5+ taps → Phone Finder**
 
 The UI hints:
