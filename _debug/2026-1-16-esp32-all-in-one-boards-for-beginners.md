@@ -9,6 +9,19 @@ excerpt: "A beginner’s perspective on choosing all-in-one ESP32 boards over mo
 
 I'm building POPO—an autonomous desk companion. I'm not an engineer. My coding partner is Claude.
 
+<div class="youtube-container">
+  <iframe 
+    src="https://www.youtube.com/embed/Lmhfj56NkSQ"
+    title="POPO development short"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
+
+**If the video doesn’t appear here, you can watch it on YouTube:**
+👉 https://youtube.com/shorts/Lmhfj56NkSQ
+
 When I started planning the hardware, I compared two approaches:
 
 **Modular parts**
