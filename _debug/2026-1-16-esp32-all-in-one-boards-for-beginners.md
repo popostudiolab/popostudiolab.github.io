@@ -7,7 +7,7 @@ excerpt: "A beginner’s perspective on choosing all-in-one ESP32 boards over mo
 
 ## What I Was Choosing Between
 
-I'm building POPO—an autonomous desk companion. I'm not an engineer. My coding partner is Claude.
+I'm building POPO—an autonomous desk companion. I'm not a traditional engineer, and my coding partner is Claude.
 
 <div class="youtube-container">
   <iframe 
