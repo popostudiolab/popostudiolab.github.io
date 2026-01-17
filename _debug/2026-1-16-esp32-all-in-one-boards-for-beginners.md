@@ -20,7 +20,7 @@ I'm building POPO—an autonomous desk companion. I'm not an engineer. My coding
 </div>
 
 **If the video doesn’t appear here, you can watch it on YouTube:**
-👉 https://youtube.com/shorts/Lmhfj56NkSQ
+Here: https://youtube.com/shorts/Lmhfj56NkSQ
 
 When I started planning the hardware, I compared two approaches:
 
