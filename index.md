@@ -9,7 +9,7 @@ I'm building POPO bot Touch — a tiny emotional desk companion that responds to
 
 I'm not an engineer. I'm learning electronics and embedded systems by building with AI as my learning partner. This site documents that process — the confusion, the breakthroughs, the stuff that broke, and what actually fixed it.
 
-**How POPO bot Touch works:** Touch can wake POPO, interrupt what it’s doing, or enter utility modes through deliberate gestures. Emotional expressions run autonomously on their own timing and are never directly triggered by the user. Touch is treated as presence, not control
+**How POPO bot Touch works:** Touch can wake POPO, interrupt what it’s doing, or enter utility modes through deliberate gestures. Emotional expressions run autonomously on their own timing and are never directly triggered by the user. Touch is treated as presence, not control.
 
 This is **AI-Native Systems Building** from a beginner’s point of view — using AI as a thinking partner while learning hardware in real time, and documenting that process as it unfolds.
 
