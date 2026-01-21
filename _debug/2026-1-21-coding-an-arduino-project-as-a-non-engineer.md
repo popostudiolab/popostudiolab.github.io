@@ -76,17 +76,13 @@ This was the first time I felt like I could *observe* what was changing.
 
 ## One Actual Mistake I Made
 
-The problem wasn’t Antigravity behaving strangely.
+I made a duplicate folder so I could refactor safely inside Antigravity. In my head, I had “moved to the copy.”
 
-It was my misunderstanding of how **Arduino treats a project**.
+But Antigravity didn’t actually open that duplicate. It kept me working in the original folder.
 
-Arduino doesn’t really have a strong concept of a “project” in the way modern IDEs do. What matters is the **sketch folder** that contains the `.ino` file. That’s the version Arduino will compile — regardless of how many copies exist elsewhere.
+I didn’t notice at first.
 
-I copied my code into a separate Antigravity folder, opened that folder in Antigravity, assuming I was safely working on a duplicate. But Arduino was still opening and compiling the original sketch folder.
-
-I didn’t notice this at first.
-
-So while I thought I was refactoring a copy, I was actually changing the version I meant to keep untouched.
+So the refactor changes landed on the original code — the version I was trying to preserve.
 
 That was a real mistake, and it took time to sort out.
 
