@@ -40,7 +40,7 @@ Over time, I noticed things like:
 - timers reused for completely different purposes  
 
 Nothing failed loudly.  
-But when behavior felt “off,” I couldn’t tell *where* to look.
+But when behaviour felt “off,” I couldn’t tell *where* to look.
 
 Every bug felt like it might be anywhere.
 
