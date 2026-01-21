@@ -11,7 +11,7 @@ I'm not an engineer. I'm learning electronics and embedded systems by building w
 
 **How POPO bot Touch works:** Touch can wake POPO, interrupt what it’s doing, or enter utility modes through deliberate gestures. Emotional expressions run autonomously on their own timing and are never directly triggered by the user. Touch is treated as presence, not control
 
-This is **anti-engineer engineering** — making hardware accessible by documenting a beginner's real journey, not cleaned-up tutorials written from an expert perspective.
+This is **AI-Native Systems Building** from a beginner’s point of view — using AI as a thinking partner while learning hardware in real time, and documenting that process as it unfolds.
 
 ## What's Here
 
