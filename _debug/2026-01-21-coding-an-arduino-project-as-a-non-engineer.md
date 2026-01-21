@@ -118,3 +118,7 @@ This post is a record of what I actually went through while coding an Arduino pr
 The code is still evolving.
 
 But this is the point where the project stopped feeling like a blur and started feeling like something I could reason about — even without an engineering background.
+
+*Want to see the actual process? [Learn about POPO Bot Touch ](/debug/)*
+
+**Hardware:** ESP32-S3-LCD-1.69, QMI8658 IMU  
